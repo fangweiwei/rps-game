@@ -1,0 +1,7 @@
+
+
+1: how to build it
+mvn build
+
+2: How to run it
+java -jar target/rps-game-cmd-0.0.1-SNAPSHOT.jar
